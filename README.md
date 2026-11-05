@@ -1,16 +1,38 @@
-## Hi there 👋
+### **NATALIA RIVERA**
 
-<!--
-**mangonada183/mangonada183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Aspiring Software Engineer | Developer | Tech Enthusiast*
 
-Here are some ideas to get you started:
+Honduras · She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a middle school student interested in software development, computer science, and cybersecurity. I enjoy solving problems and exploring new technologies.
+
+*About Me*
+
+- Middle school student
+- Self-taught software engineer and ethical hacker
+- Languages: Spanish (Native), English, Japanese, French
+- Currently exploring programming and cybersecurity
+
+*Technologies*
+
+**Languages:** JavaScript, Python, HTML, CSS
+
+**Tools:** Visual Studio Code, Git, GitHub, Netlify
+
+*Interests*
+
+- Software Development
+- Cybersecurity
+- Web Development
+- Mathematics and Computer Science
+
+*Goals*
+
+- Build meaningful projects
+- Strengthen my programming skills
+- Explore computer science
+- Pursue a career in Software Engineering
+  
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+
+*Hello, world!*
